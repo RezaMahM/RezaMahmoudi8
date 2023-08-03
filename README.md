@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RezaMahmoudi8
+- 👋 Hi, I’m @RezaMahmoudi
 - 👀 I’m interested in Deep Learning-Machine Learning adided Medical Image Processing.
 - 🌱 I’m currently learning Machine Learning Course Of Stanford University in Coursera Website.
 - 💞️ I’m looking to collaborate on Medical Image Processing Projets.
